@@ -6,7 +6,7 @@
     "author": "",
     "website": "",
     "license": "AGPL-3",
-    "depends": [],
-    "data": []    "application": True,
+    "depends": ['base'],
+    "data": [],
 }
 
